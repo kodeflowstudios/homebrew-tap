@@ -1,8 +1,8 @@
 class Utui < Formula
   desc "TUI for managing Unity projects and editor installs"
   homepage "https://github.com/kodeflowstudios/utui"
-  url "https://github.com/kodeflowstudios/utui/archive/refs/tags/v1.0.4.tar.gz"
-  sha256 "2516945adfab3c8e26bf01813deae27e3a9a679b4473191b2b8f7386e5843d86"
+  url "https://github.com/kodeflowstudios/utui/archive/refs/tags/v1.0.5.tar.gz"
+  sha256 "48982b821f59ecd427694df2405ed9901a71987e5681c79c2e461159c221d143"
   license "MIT"
 
   depends_on "rust" => :build
